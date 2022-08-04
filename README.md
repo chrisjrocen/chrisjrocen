@@ -35,5 +35,3 @@
 <p align="center">&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=chrisjrocen&show_icons=true&locale=en" alt="chrisjrocen" /></p>
 
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=chrisjrocen&theme=dark" alt="chrisjrocen" /></p>
-
-<p align="center"><a href="https://www.buymeacoffee.com/ocenchris"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ocenchris" /></a></p>

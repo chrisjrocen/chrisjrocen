@@ -2,7 +2,7 @@
 
 <h3 align="left"> 🚀 A WordPress developer from Uganda</h3>
 <br>
-<p>I started off using WordPress from with page builders, and with time I have weaned myself into development. Starting with PhP and now learning Javascript. I am on my to becoming a <b>Fullstack developer.</b></p>
+<p>I started off using WordPress from with page builders, and with time I have weaned myself into development. Starting with <b>PHP</b> and now learning <b>Javascript.</b> I am on my to becoming a <b>Fullstack developer.</b></p>
 <br>
 - 🌱 I’m currently learning **Javascript**
 
@@ -34,15 +34,15 @@
  
 <h4 align="left"> 🌱 Bilingual Dictionary plugin</h4>
 
-**Description:** Lexical database to store and present words and their translation from one langauge to another 
+<p><b>Description:</b> Lexical database to store and present words and their translation from one langauge to another</p> 
 
-**Technologies:** PHP, WordPress, SQLite
+<p><b>Technologies:</b> PHP, WordPress, SQLite</p>
 
 <h4 align="left"> 🌱 Bilingual Dictionary Android App</h4>
 
-**Description:** Lexical database to store and present words and their translation from one langauge to another. Built for Android
+<p><b>Description:</b> Lexical database to store and present words and their translation from one langauge to another. Built for Android</p>
 
-**Technologies:** Kotlin, SQLite
+<p><b>Technologies:</b> Kotlin, SQLite</p>
 <br>
 <br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chrisjrocen&show_icons=true&locale=en&layout=compact" alt="chrisjrocen" /></p>

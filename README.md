@@ -2,7 +2,7 @@
 
 <h3 align="left"> 🚀 A WordPress developer from Uganda</h3>
 <br>
-<p>I started off using WordPress from with page builders, and with time I have weaned myself into development. Starting with <b>PHP</b> and now learning <b>Javascript.</b> I am on my to becoming a <b>Fullstack developer.</b></p>
+<p>I started off using WordPress from with page builders, and with time I have weaned myself into development. Starting with <b>PHP</b> and now learning <b>Javascript.</b> I am on my journey to becoming a <b>Fullstack developer.</b></p>
 <br>
 - 🌱 I’m currently learning **Javascript**
 

@@ -38,7 +38,7 @@
 <p><b>Description:</b> Lexical database to store and present words and their translation from one langauge to another</p> 
 
 <p><b>Technologies:</b> PHP, WordPress, SQLite</p>
-
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 <h4 align="left"> 🌱 Bilingual Dictionary Android App</h4>
 
 <p><b>Description:</b> Lexical database to store and present words and their translation from one langauge to another. Built for Android</p>

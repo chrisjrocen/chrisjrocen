@@ -23,6 +23,7 @@
 <a href="https://linkedin.com/in/ocenchris" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ocenchris" height="30" width="40" /></a>
 <a href="https://medium.com/@ocen_chris" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ocen_chris" height="30" width="40" /></a>
 </p>
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="ocenchris" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://ug.linkedin.com/in/ocenchris?trk=profile-badge">Christopher Ocen</a></div>
 <br>
 <br>
 <h3 align="left"> 🛠 Languages and Tools:</h3>

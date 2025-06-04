@@ -2,17 +2,11 @@
 
 <h3 align="left"> 🚀 A WordPress developer from Uganda</h3>
 <br>
-<p>I started off using WordPress from with page builders, and with time I have weaned myself into development. Starting with <b>PHP</b> and now learning <b>Javascript.</b> I am on my journey to becoming a <b>Fullstack developer.</b></p>
+<p>I am using and building tools for <b>WordPress</b>
 <br>
 - 🌱 I’m currently learning **Javascript**
 
-- 👨‍💻 All of my projects are available at [https://ocenchris.com/](https://ocenchris.com/)
-
-- 💬 Ask me about **wordpress, sass,**
-
-- 📫 Email me at **chrisocen4@gmail.com**
-
-- 📄 My portfolio [https://ocenchris.com/](https://ocenchris.com/)
+- 👨‍💻 Check out my projects at [https://ocenchris.com/](https://ocenchris.com/)
 <br>
 <!-- ### Blogs posts -->
 <!-- BLOG-POST-LIST:START -->

@@ -1,15 +1,13 @@
 # Hi 👋, I'm Chris
 
-## A WordPress developer from Uganda
-
 I am using and building tools for **WordPress**
 
-### Connect with me
+## Connect with me
 
 - [Connect with me on LinkedIn](https://ug.linkedin.com/in/ocenchris?trk=profile-badge)
 - Check out my portfolio on [https://ocenchris.com/](https://ocenchris.com/)
 
-### Languages and Tools
+## Languages and Tools
 
 - **Frontend**: HTML, CSS, SCSS, Javascript
 - **Backend**: PHP, Node.js
@@ -21,7 +19,7 @@ I am using and building tools for **WordPress**
 - **Databases**: MySQL
 - **Other tools**: Postman, Firebase, GCP, Git, Bash, Zoho, Trello
 
-### Others tools and technologies
+## Others tools and technologies
 
 As the tech world evolves, I am learning and have my eyes on the following;
 
